@@ -1,3 +1,5 @@
+
+![](./images/opencart.png)
 # OpenCart
 
 ## Overview
